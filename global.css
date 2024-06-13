@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --body-s-semibold: "Plus Jakarta Sans";
+  
+    /* font sizes */
+    --body-s-semibold-size: 12px;
+    --body-l-medium-size: 16px;
+    --body-xl-semibold-size: 18px;
+    --body-m-semibold-size: 14px;
+  
+    /* Colors */
+    --noble-black-300: #9b9c9e;
+    --noble-black-0: #fff;
+    --noble-black-400: #686b6e;
+    --red-power-600: #d0302f;
+    --happy-orange-600: #e26f20;
+    --noble-black-600: #1a1d21;
+    --noble-black-700: #131619;
+    --noble-black-800: #0d0f10;
+    --color-gray-100: rgba(255, 255, 255, 0.08);
+    --noble-black-500: #363a3d;
+    --stem-green-500: #b6f09c;
+    --noble-black-100: #e8e9e9;
+  
+    /* Gaps */
+    --gap-5xl: 24px;
+    --gap-9xs: 4px;
+    --gap-xs: 12px;
+    --gap-7xs: 6px;
+    --gap-base: 16px;
+    --gap-5xs: 8px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-5xl: 24px;
+    --padding-5xs: 8px;
+    --padding-xs: 12px;
+    --padding-base: 16px;
+    --padding-sm: 14px;
+    --padding-6xl: 25px;
+  
+    /* Border radiuses */
+    --br-xl: 20px;
+    --br-xs: 12px;
+    --br-base: 16px;
+    --br-5xs: 8px;
+  
+    /* Effects */
+    --shadow-extra-large: 0px 25px 50px -12px rgba(6, 7, 8, 0.16),
+      0px 8px 10px -6px rgba(6, 7, 8, 0.06);
+  }
+  

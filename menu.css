@@ -1,0 +1,204 @@
+.close-icon {
+    width: 23.2px;
+    position: relative;
+    height: 24.5px;
+  }
+  .workspace1 {
+    align-self: stretch;
+    border-bottom: 1px solid var(--noble-black-700);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-5xl) var(--padding-5xl) var(--padding-5xl)
+      var(--padding-6xl);
+  }
+  .search-icon1 {
+    width: 20px;
+    position: relative;
+    height: 20px;
+  }
+  .div31,
+  .label6 {
+    align-items: center;
+  }
+  .div31 {
+    width: 49px;
+    position: relative;
+    letter-spacing: 0.15px;
+    line-height: 20px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .label6 {
+    width: 264px;
+    flex-direction: row;
+    gap: var(--gap-base);
+  }
+  .general3,
+  .label6,
+  .list2,
+  .navigation-item4 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .navigation-item4 {
+    width: 296px;
+    border-radius: var(--br-5xs);
+    height: 48px;
+    flex-direction: row;
+    align-items: center;
+    padding: var(--padding-sm) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .general3,
+  .list2 {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .general3 {
+    align-self: stretch;
+    border-bottom: 1px solid var(--noble-black-700);
+    padding: var(--padding-5xl) var(--padding-5xs);
+  }
+  .chat2 {
+    position: relative;
+    letter-spacing: 0.15px;
+    line-height: 18px;
+    font-weight: 600;
+  }
+  .heading4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-base);
+  }
+  .div32 {
+    position: relative;
+    letter-spacing: 0.15px;
+    line-height: 20px;
+    font-weight: 600;
+  }
+  .label9 {
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--gap-base);
+  }
+  .button4,
+  .general4,
+  .label9,
+  .list3 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .button4 {
+    width: 296px;
+    border-radius: var(--br-5xs);
+    height: 48px;
+    flex-direction: row;
+    align-items: center;
+    padding: var(--padding-sm) var(--padding-base);
+    box-sizing: border-box;
+    color: var(--noble-black-400);
+  }
+  .general4,
+  .list3 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-5xs);
+    text-align: center;
+    font-size: var(--body-m-semibold-size);
+    color: var(--noble-black-100);
+  }
+  .general4 {
+    align-self: stretch;
+    flex: 1;
+    padding: var(--padding-5xl) var(--padding-5xs);
+    gap: var(--gap-5xl);
+    text-align: left;
+    font-size: var(--body-s-semibold-size);
+    color: var(--noble-black-400);
+  }
+  .avatar-icon9 {
+    width: 48px;
+    position: relative;
+    border-radius: var(--br-xl);
+    height: 48px;
+  }
+  .div35,
+  .div36 {
+    position: relative;
+    letter-spacing: 0.15px;
+    line-height: 24px;
+    font-weight: 600;
+  }
+  .div36 {
+    font-size: var(--body-s-semibold-size);
+    line-height: 18px;
+    font-weight: 500;
+    color: var(--stem-green-500);
+  }
+  .name13,
+  .user9 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .user9 {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--gap-base);
+  }
+  .cog-icon1 {
+    width: 24px;
+    position: relative;
+    height: 24px;
+  }
+  .user8 {
+    align-self: stretch;
+    border-radius: var(--br-base);
+    border-top: 1px solid var(--color-gray-100);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--padding-base);
+  }
+  .footer1,
+  .sidebar1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .footer1 {
+    align-self: stretch;
+    padding: var(--padding-5xs);
+    font-size: var(--body-l-medium-size);
+    color: var(--noble-black-0);
+  }
+  .sidebar1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--noble-black-800);
+    width: 449px;
+    height: 1080px;
+  }
+  .menu1 {
+    width: 100%;
+    position: relative;
+    height: 1080px;
+    text-align: center;
+    font-size: var(--body-m-semibold-size);
+    color: var(--noble-black-100);
+    font-family: var(--body-s-semibold);
+  }
+  
