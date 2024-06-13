@@ -6,6 +6,18 @@
     width: 1920px;
     height: 1079.9px;
   }
+
+  .message-input.input input[type="text"] {
+
+    background-color: transparent;
+  
+    border: none;
+  
+    outline: none;
+  
+    box-shadow: none;
+  
+  }
   .menu-child,
   .menu-inner,
   .menu-item {
