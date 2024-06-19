@@ -6,6 +6,17 @@
     width: 100%;
     height: 1350px;
   }
+  
+  .button-icon3 button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+  }
+
+  .button-icon3 button {
+    background-color: rgba(0, 0, 0, 0);
+  }
 
   .message-input {
 
