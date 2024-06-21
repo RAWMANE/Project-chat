@@ -16,4 +16,5 @@
   />
 </picture>
 
+
 <a href="https://codeclimate.com/github/RAWMANE/Project-chat-MVP/maintainability"><img src="https://api.codeclimate.com/v1/badges/3677d2327ad47b473438/maintainability" /></a>                               <a href="https://codeclimate.com/github/RAWMANE/Project-chat-MVP/test_coverage"><img src="https://api.codeclimate.com/v1/badges/3677d2327ad47b473438/test_coverage" /></a>
