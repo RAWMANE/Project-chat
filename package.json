@@ -2,5 +2,9 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "nginx": "^1.0.8"
+  },
+  "devDependencies": {
+    "eslint": "^9.5.0",
+    "globals": "^15.6.0"
   }
 }
